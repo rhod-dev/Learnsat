@@ -1,4 +1,5 @@
 <h1> Learnsat </h1>
+Learnsat is a collection of frameworks, libraries, software and resources for machine learning and AI within the space industry
 
 <h2> Contributing </h2>
 
